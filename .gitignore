@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.env
+.venv/
+venv/
+ENV/
+
+# OS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & artifacts
+/data/
+/models/
+/reports/
+/mlruns/
+
+# Logs
+*.log
