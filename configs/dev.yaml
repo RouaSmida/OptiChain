@@ -1,0 +1,10 @@
+project:
+  name: OptiChain
+
+runtime:
+  env: dev
+
+paths:
+  data: data
+  models: models
+  reports: reports
